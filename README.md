@@ -8,7 +8,7 @@
   <img align="left" alt="Kushagra Bajpai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="kushagra.25bajpai@gmail.com">
+<a href="mailto:piyushpravin1998@gmail.com">
   <img align="left" alt="Kushagra Bajpai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />
 </a>
 
@@ -37,8 +37,6 @@ Hello I am Kushagra Bajpai Final Year Computer Science Student.Currently Working
 <br />
 <br />
 
-<br>
-<br>
 **✨ Tech stacks currently using** <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -50,7 +48,6 @@ Hello I am Kushagra Bajpai Final Year Computer Science Student.Currently Working
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-<br>
 <br>
 <br>
  
