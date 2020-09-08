@@ -8,9 +8,7 @@
   <img align="left" alt="Kushagra Bajpai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="mailto:kushagra.25bajpai@gmail.com/">
-  <img align="left" alt="Kushagra Bajpai's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />
-</a>
+
 
 </br>
 </br>
@@ -23,7 +21,7 @@
    
 Hello I am Kushagra Bajpai Final Year Computer Science Student.Currently Working On Machine Learning Projects as well as solving some Data Structures and Algorithms Problems On LeetCode/HackerRank and other sites available 
 
-<div><p>My profile overview: </p></div>
+
 
 **✨ Tech stacks currently using** <br>
 <br>
@@ -41,6 +39,7 @@ Hello I am Kushagra Bajpai Final Year Computer Science Student.Currently Working
 <br>
 <br>
  
+<div><p>My profile overview: </p></div>
 
 ![Kushagra Bajpai's github stats](https://github-readme-stats.vercel.app/api?username=Kush212121&show_icons=true)
 
