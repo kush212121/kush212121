@@ -1,6 +1,6 @@
 ### Hey There 👋 I am [Kushagra Bajpai](https://github.com/Kush212121)
 
- <a href="https://https://www.linkedin.com/in/kush212121/">
+ <a href="https://www.linkedin.com/in/kushagra-bajpai-a366b2153/">
   <img align="left" alt="Kushagra's Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
