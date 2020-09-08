@@ -4,9 +4,10 @@
   <img align="left" alt="Kushagra's Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/kushagra-bajpai-a366b2153/">
-  <img align="left" alt="Kushagra Tandon's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/kushagra__bajpai/">
+  <img align="left" alt="Kushagra Bajpai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 
 </br>
 </br>
