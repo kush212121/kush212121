@@ -13,7 +13,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/kush212121](https://github.com/kush212121)
 
-💬 Ask me about Java Python CNN NLP Tensorflow Salesforce Flask Rest-API  
+💬 Ask me about Java, Python, CNN, NLP, Tensorflow, Salesforce, Flask and Rest-API  
 
 📫 How to reach me 
       <h4> ->  **kushagra.25bajpai@gmail.com**
